@@ -1,18 +1,21 @@
 .panada-logo img{
     height:50px;
 }
-.girls-pic{
-    height: 400px;
+
+.f3-jack img{
+    height: 17rem;
+    width: 13rem;
+    ;
 }
-.mjacket-3 img{
-    height: 250px;
-    width: 200px;
+.f3-jack{
+    
+     border-radius: 15px;
+}
+.f-jack-foot{
+    border: 0;
+    background-color:white;
 }
 
-.mens{
-    border: 0;
-    border-radius: 20px;
-}
 .details img{
     height: 60px;
     
