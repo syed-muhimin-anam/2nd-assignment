@@ -6,14 +6,14 @@ a{
     text-decoration: none;
     color: black;
 }
-.head{
+.hed{
     background-color:rgba(255, 255, 0, 0.164);}
-/* }#fffbf0  */
 .panada-logo img{
-    height:50px;
+    height:3rem;
 }
 .girls-pic{
-    height: 420px;
+    height: 30rem;
+    width: 30rem;
 }
 .f3-jack img{
     height: 17rem;
@@ -21,8 +21,7 @@ a{
     
 }
 .f3-jack{
-    
-     border-radius: 15px;
+     border-radius: 2rem;
 }
 .jack-card h4,h2{
     color: blue;
