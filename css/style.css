@@ -1,7 +1,20 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.head{
+    background-color:rgba(255, 255, 0, 0.164);}
+/* }#fffbf0  */
 .panada-logo img{
     height:50px;
 }
-
+.girls-pic{
+    height: 420px;
+}
 .f3-jack img{
     height: 17rem;
     width: 13rem;
@@ -21,5 +34,8 @@
     
 }
 .details{
-    border-radius: 15px;
+    border-radius: 10px;
+}
+.lst-fooot{
+    background-color: rgba(255, 255, 0, 0.219);
 }
