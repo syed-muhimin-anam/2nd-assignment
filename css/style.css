@@ -18,11 +18,14 @@ a{
 .f3-jack img{
     height: 17rem;
     width: 13rem;
-    ;
+    
 }
 .f3-jack{
     
      border-radius: 15px;
+}
+.jack-card h4,h2{
+    color: blue;
 }
 .f-jack-foot{
     border: 0;
